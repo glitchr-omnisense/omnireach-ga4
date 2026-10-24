@@ -1,0 +1,11 @@
+{
+    "dimensionHeaders": [{"name": "landingPage"}],
+    "metricHeaders": [{"name": "totalUsers", "type": "TYPE_INTEGER"}, {"name": "sessions", "type": "TYPE_INTEGER"}, {"name": "bounceRate", "type": "TYPE_FLOAT"}, {"name": "averageSessionDuration", "type": "TYPE_SECONDS"}],
+    "rows": [
+        {"dimensionValues": [{"value": "/"}], "metricValues": [{"value": "1840"}, {"value": "2210"}, {"value": "0.4321"}, {"value": "96.512"}]},
+        {"dimensionValues": [{"value": "/ateliers"}], "metricValues": [{"value": "602"}, {"value": "655"}, {"value": "0.3876"}, {"value": "141.03"}]}
+    ],
+    "rowCount": 2,
+    "metadata": {"currencyCode": "EUR", "timeZone": "Europe/Paris"},
+    "kind": "analyticsData#runReport"
+}

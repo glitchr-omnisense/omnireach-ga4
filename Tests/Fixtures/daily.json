@@ -1,0 +1,10 @@
+{
+    "dimensionHeaders": [{"name": "date"}],
+    "metricHeaders": [{"name": "sessions", "type": "TYPE_INTEGER"}],
+    "rows": [
+        {"dimensionValues": [{"value": "20261001"}], "metricValues": [{"value": "120"}]},
+        {"dimensionValues": [{"value": "20261002"}], "metricValues": [{"value": "98"}]}
+    ],
+    "rowCount": 2,
+    "kind": "analyticsData#runReport"
+}
