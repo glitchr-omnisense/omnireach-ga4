@@ -1,6 +1,6 @@
 # omnireach/ga4
 
-[omniscient/omnireach](https://github.com/glitchr-studio/omnireach)'s Google Analytics 4, under
+[omnisense/omnireach](https://github.com/glitchr-omnisense/omnireach)'s Google Analytics 4, under
 any PHP host: visitors, sessions, pageviews, bounce rate and session length of a property, by
 landing page, page, source, country, device or day, combined as needed.
 
